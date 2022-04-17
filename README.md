@@ -26,3 +26,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## creacion de componentes:
 ng generate component component/'nombre del componente'
+
+## barra de progreso
+https://www.npmjs.com/package/ng-circle-progress
