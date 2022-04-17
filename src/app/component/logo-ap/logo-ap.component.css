@@ -1,3 +1,33 @@
 #logoAP{
     width: 150px;
 }
+img{
+    width: 50px;
+}
+.redes{
+    margin-right: 1.5rem;
+}
+.btn{
+    border-width: medium;
+}
+.conteiner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* vista de cel */
+@media(max-width: 345px){
+    .conteiner{
+        flex-direction: column;
+    }
+    .redes{
+        display: flex;
+        flex-direction: column ;
+        align-items: center;
+    
+    }
+    .redes{
+        margin: 0.5rem;
+    }
+}
