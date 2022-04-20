@@ -1,5 +1,9 @@
 .conteiner{
-    background-color: rgb(10, 59, 43);
+    background-color: #6379D4;
+    box-shadow: 2px -2px 5px black;
+    width: 80%;
+    margin: 0 auto;
+    
 }
 footer{
     color:azure;
@@ -7,5 +11,5 @@ footer{
     display: flex;
     flex-direction: column;
     text-align: center;
-    box-shadow: 2px -2px 5px rgb(184, 130, 130);
+
 }

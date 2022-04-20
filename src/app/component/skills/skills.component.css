@@ -1,4 +1,9 @@
+.conteiner{
+    box-shadow: 2px -2px 5px black;
+    width: 80%;
+    margin: 0 auto;
+}
 .row{
-    background-color:rgb(243, 234, 236) ;
+    background-color:#F7E6DB ;
     padding: 25px;
 }

@@ -3,6 +3,10 @@
 }
 img{
     width: 50px;
+    margin: 5px;
+}
+button{
+    margin-left: 40px;
 }
 .redes{
     margin-right: 1.5rem;
