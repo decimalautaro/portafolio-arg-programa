@@ -1,5 +1,11 @@
+.row{
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: 2px -2px 5px black;
+}
 div{
-    background-color:deepskyblue;
+    background-color:#6386D4;
+
 }
 
 app-social{

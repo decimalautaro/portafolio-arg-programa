@@ -1,6 +1,11 @@
+.conteiner{
+    box-shadow: 2px -2px 5px black;
+    width: 80%;
+    margin: 0 auto;
+}
 .row{
     padding: 25px;
-    background-color: rgb(160, 130, 85);
+    background-color: #D44E62
 }
 .block{
     width: auto;
